@@ -162,11 +162,7 @@ The site now includes a protected admin portal at `/admin` with unified Booking,
 
 Add these environment variables in production:
 
-```env
-ADMIN_USERNAME=your-admin-username
-ADMIN_PASSWORD=your-strong-admin-password
-ADMIN_SESSION_SECRET=a-long-random-secret
-META_PIXEL_ID=1332486825534463
+Deploy v4 branch
 META_ACCESS_TOKEN=your-meta-conversions-api-access-token
 ```
 
